@@ -1,0 +1,30 @@
+﻿@model List<ProductResponseModel>
+
+
+<html>
+<head>
+    <title>works</title>
+</head>
+<body>
+
+    <table >
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>CreateDate</th>
+            <th>Stock</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @item.Name</td>
+                <td> @item.Price</td>
+                <td> @item.CreateDate</td>
+                <td> @item.Stock</td>
+            </tr>
+        }
+
+    </table>
+
+</body>
+</html>
