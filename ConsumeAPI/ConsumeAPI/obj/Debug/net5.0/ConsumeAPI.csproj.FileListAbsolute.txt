@@ -80,3 +80,5 @@ C:\Users\muham\OneDrive\Masaüstü\Proje Ve Doyalar\projeler\WebAPI\ConsumeAPI\C
 C:\Users\muham\OneDrive\Masaüstü\Proje Ve Doyalar\projeler\WebAPI\ConsumeAPI\ConsumeAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\muham\OneDrive\Masaüstü\Proje Ve Doyalar\projeler\WebAPI\ConsumeAPI\ConsumeAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\muham\OneDrive\Masaüstü\Proje Ve Doyalar\projeler\WebAPI\ConsumeAPI\ConsumeAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\muham\OneDrive\Masaüstü\Proje Ve Doyalar\projeler\WebAPI\ConsumeAPI\ConsumeAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\muham\OneDrive\Masaüstü\Proje Ve Doyalar\projeler\WebAPI\ConsumeAPI\ConsumeAPI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
